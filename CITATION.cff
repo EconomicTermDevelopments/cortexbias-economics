@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing Cortexbias: A Computational Framework for Neuroeconomics"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/cortexbias-economics"
+keywords:
+  - economics
+  - cortexbias
+  - neuroeconomics
+  - computational-framework
+  - emerging-terminology
+abstract: "Cortexbias is defined here as systematic decision-making deviations arising from the neural architecture and dynamic balance between prefrontal cortex deliberative processes and limbic system emotional responses. Cortexbias manifests when the relative activation levels of these brain regions produce consistent patterns of economic choice that deviate from normative rationality predictions."

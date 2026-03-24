@@ -1,0 +1,25 @@
+{
+  "term": "Cortexbias",
+  "definition": "Systematic decision-making deviations arising from the neural architecture and dynamic balance between prefrontal cortex deliberative processes and limbic system emotional responses. Cortexbias manifests when the relative activation levels of these brain regions produce consistent patterns of economic choice that deviate from normative rationality predictions.",
+  "etymology": "Compound: 'cortex' + 'bias'.",
+  "field": "Neuroeconomics",
+  "subfields": [
+    "Neuroeconomics",
+    "Behavioral Economics",
+    "Decision Theory"
+  ],
+  "jel_codes": [
+    "D87",
+    "D91"
+  ],
+  "synonyms": [
+    "neural decision distortion"
+  ],
+  "related_concepts": [
+    "Affective bias",
+    "Cognitive control imbalance",
+    "Loss aversion dynamics"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}

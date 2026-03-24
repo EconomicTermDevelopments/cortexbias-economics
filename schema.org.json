@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Cortexbias",
+  "description": "Systematic decision-making deviations arising from the neural architecture and dynamic balance between prefrontal cortex deliberative processes and limbic system emotional responses. Cortexbias manifests when the relative activation levels of these brain regions produce consistent patterns of economic choice that deviate from normative rationality predictions.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "D87"
+}
